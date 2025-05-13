@@ -1,0 +1,26 @@
+Title: * C:\Users\lokes\Desktop\RL_Project\RL_Project\custom_rl_circuit.asc
+Date: Sat May 10 21:25:13 2025
+Plotname: Operating Point
+Flags: real
+No. Variables: 8
+No. Points:            1
+Offset:    0.0000000000000000e+00
+Command: Linear Technology Corporation LTspice
+Variables:
+	0	V(n001)	voltage
+	1	V(vout)	voltage
+	2	V(n002)	voltage
+	3	V(n003)	voltage
+	4	I(R1)	device_current
+	5	I(R2)	device_current
+	6	I(R3)	device_current
+	7	I(Ac1)	device_current
+Values:
+0		0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
+	0.000000000000000e+00
